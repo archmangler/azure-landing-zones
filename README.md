@@ -1,6 +1,7 @@
 # Azure Landing Zone Infrastructure as Code Implementation
 
-- Scalable, Flexible landing zone architecture and code implementation
+- Scalable, Modular, Flexible landing zone architecture implementation
 - Infrastructure as Code implementation with CI/CD deployment tooling
-- Pipeline Management tooling Automation
+- Pipeline-based Management tooling automation implemented "as code" (jcasc)
+- Integrated CMDB for management of the deployment and operational model
 
